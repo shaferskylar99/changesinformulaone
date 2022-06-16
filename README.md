@@ -2,10 +2,13 @@ How Has Formula One Changed?
 Skylar Shafer, ECON 570, Group 19
 
 Introduction
+
 Formula One is an international racing phenomenon, featuring cars that race in excess of 200 MPH. As a sport of extremely high notoriety which pushes mechanical limits, it has a long and complex history filled with triumph, tragedy, and technological progress.
 In Formula One, racers take to the track to prove their mettle over multiple days of racing. Drivers complete qualifying laps in the preliminary days in an attempt to achieve a higher starting position in the actual race held on the final day.
 I wanted to look at how the dynamics of racing at each circuit have changed over time. I also was curious about how the sport has changed over time. Are the cars/drivers more reliable or consistent? Has the competitive gap between good and bad teams increased or decreased? Below are the results of my foray into this research, along with some insights I’ve derived from them.
+
 Data Overview
+
 Before we can analyze the most iconic tracks, we must assess what constitutes an iconic track. I will use the definition that a track is considered great if it has been used more than 30 times for Formula One races, since Formula One’s creation in 1950. The following courses are considered great by this definition:
 1.	Circuit de Barcelona-Catalunya, in Barcelona, Spain
 2.	Circuit de Monaco, in Monaco, a tiny country on the southern coast of France
@@ -25,8 +28,10 @@ We will compare these circuits, and F1 in general, by 3 standard metrics:
 2.	The average change in position for those who finished the race, in order to assess the excitement of results created by overtaking. If the expectations of where teams will finish (based on how they qualified, and thus their starting position) are often wrong, then the races are likely more exciting, with more overtakes.
 3.	The average starting position of those who failed to finish the race, as a means of assessing the difference in performance between top teams and bottom teams. If those teams starting in the back are much less likely to finish the race, the gap in car engineering/driver skill is likely larger, and so the gap between teams is, as well.
 
-	We will also look at how these metrics look for all races over the whole history of F1, from 1950 to 2021, in a time series format, depending on the chronological order of when each race occurred, not the date itself. Thus, we can get a perspective on how racing has changed not only at each of the iconic circuits but throughout the entirety of the competition.
+We will also look at how these metrics look for all races over the whole history of F1, from 1950 to 2021, in a time series format, depending on the chronological order of when each race occurred, not the date itself. Thus, we can get a perspective on how racing has changed not only at each of the iconic circuits but throughout the entirety of the competition.
+
 Graphics (Circuits at left, Chronology at right)
+
 Note: Bar charts are figures 1, 2, and 3, in the order of their presentation. The line plots are the same, but 4, 5 and 6.
 
 ![image](https://user-images.githubusercontent.com/56563084/174174988-c9c9b8c9-a7c3-402f-bf8a-c0dee99659cf.png)
@@ -71,7 +76,7 @@ In turn, looking at the results of figures 4 and 6, I would say that Formula One
 
 Conclusion
 
-	F1 has changed a lot in its history. It has evolved with technology, seeing new feats of engineering and driver prowess that many would have not thought possible decades ago. It is a constantly evolving sport. The cars and/or drivers have become much more reliable. The optimal racing circumstances have changed due to the new cars, and Formula One will have to look at street circuits and how they have suffered at the expense of advancement of technology. The gap between teams is also growing, as teams at the top expand their lead on the teams at the bottom, although every few years, the pecking order is redefined. Overall, though, the sport has kept its place as the face of global racing, and I believe the future of it will hold moments of excitement and brilliance. As F1 is a unique hybrid of traditional sport and technology, its future could take many directions as we develop new technology capable of daunting feats. I have thoroughly enjoyed looking at the history of this great competition as well as its present state, and I look froward to enjoying the future of it, as well.
+F1 has changed a lot in its history. It has evolved with technology, seeing new feats of engineering and driver prowess that many would have not thought possible decades ago. It is a constantly evolving sport. The cars and/or drivers have become much more reliable. The optimal racing circumstances have changed due to the new cars, and Formula One will have to look at street circuits and how they have suffered at the expense of advancement of technology. The gap between teams is also growing, as teams at the top expand their lead on the teams at the bottom, although every few years, the pecking order is redefined. Overall, though, the sport has kept its place as the face of global racing, and I believe the future of it will hold moments of excitement and brilliance. As F1 is a unique hybrid of traditional sport and technology, its future could take many directions as we develop new technology capable of daunting feats. I have thoroughly enjoyed looking at the history of this great competition as well as its present state, and I look froward to enjoying the future of it, as well.
 
 Data Source
 Formula 1 World Championship (1950 - 2022) | Kaggle
